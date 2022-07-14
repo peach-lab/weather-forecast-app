@@ -1,0 +1,43 @@
+body {
+  font-family: "Roboto", sans-serif;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  border-color: orange;
+  max-width: 600px;
+  margin: 40px auto;
+  text-align: center;
+}
+form {
+  margin: 0 auto;
+  padding-top: 15px;
+}
+
+form {
+  width: 400px;
+  padding-bottom: 5%;
+}
+.btnbtn-geolocation {
+  background-color: blue;
+}
+#temperature {
+  font-size: 64px;
+}
+.float-right {
+  font-size: 34px;
+  font-weight: bold;
+}
+.btnbtn-geolocation {
+  background: url(images/magnifier.png);
+}
+#forecast {
+  padding: 20px;
+}
+#celsius-link {
+  text-decoration: none;
+}
+#fahrenheit-link {
+  text-decoration: none;
+}
+#celsius-link: active {
+  text-decoration: underline;
+}
